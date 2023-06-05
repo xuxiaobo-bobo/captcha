@@ -1,0 +1,81 @@
+actoken:
+>> core.v2.21.4.min.js <<
+
+	})[_0x2ffa25(0x7ad)](function(_0x3792bb) {
+		var _0x2c64a8 = _0x2ffa25
+		  , _0x2f75d8 = Object[_0x2c64a8(0xc62)]({
+			'id': _0x106912,
+			'fp': _0x48b80c,
+			'https': _0x2c64a8(0x74e) === _0x2ebada,
+			'type': _0x1993e7,
+			'width': _0x3018c1[_0x2c64a8(0x5c4)],
+			'sizeType': _0x3018c1[_0x2c64a8(0x2db)],
+			'version': _0x435840,
+			'dpr': window[_0x2c64a8(0x9e4)] || 0x1,
+			'dev': _0x37d546,
+			'cb': _0x14e174(),
+			'acToken': _0x3792bb,
+			'ipv6': _0x562344,
+			'runEnv': _0x492aa3,
+			'group': _0x5bac68,
+			'scene': _0x204dec,
+			'sdkVersion': _0x41ff46
+		},
+
+// _0x4f2f1a[_0x353c49(0xa28)] 就是actoken
+//_0x4f2f1a[_0x353c49(0xa28)] = _0x4f2f1a['_arg']
+return _0x24ff44(_0x4f2f1a[_0x353c49(0xa28)]);
+
+
+// _0x36c20d = acToken
+_0x5c54f7['getAnticheat']()['getToken'](_0x194fbb[_0x9dddbe(0xc29)][_0x9dddbe(0x507)], function(_0x36c20d) {
+	clearTimeout(_0x57f4f0),
+	_0x1f548(_0x36c20d);
+}, _0x30616c);
+
+
+>> watchman.min.js 變量名會變 <<
+m.prototype.ia = function(e, c, d, f) {
+	function g() {
+		x || (sa(y),
+		c(dc({
+			C: r,
+			la: x
+		})))
+	}
+	特徵:C: r,
+		 la: x
+		 
+	 var r = this.g.C = cc();
+	 
+	 
+// data參數
+// 就是下面這裡
+ 'data': JSON['stringify']({
+                        'd': '',
+                        'm': _0x190288(_0x2f0d29[_0x57a3be(0x4fb)](_0x4a28d0, _0x43a6d2)[_0x57a3be(0xcb0)](':')),
+                        'p': _0x190288(_0x4c229e),
+                        'ext': _0x190288(_0x57777a(_0xf409d4, '1,' + _0x4a28d0[_0x57a3be(0x20b)]))
+                    })
+
+
+// _0x224043[_0x50a306(0x2c3)](_0x52b359)[_0x50a306(0x7ad)](function(_0x3f9667)
+            var _0x50a306 = _0x4d2cb9;
+            _0x58ab9f = Object[_0x50a306(0xc62)]({
+                'referer': _0x5a846(),
+                'zoneId': _0x36710a[_0x50a306(0x89c)] || ''
+            }, _0x58ab9f);
+            var _0x52b359 = _0x2d4012({}, _0x5dd745, _0x17eddc, {
+                'url': _0x47334d,
+                'payload': _0x58ab9f
+            });
+            _0x224043[_0x50a306(0x2c3)](_0x52b359)[_0x50a306(0x7ad)](function(_0x3f9667) {
+                return _0xa7d692(null, _0x3f9667);
+            })[_0x50a306(0xbbf)](_0xa7d692);
+        }
+		
+// _0x2eeb09
+this[_0x510f0c(0x47f)] = function(_0x25be4f, _0x2eeb09, _0x134106) {
+                var _0x32671f = _0x510f0c;
+                return _0x19ddec[_0x32671f(0x3ec)](_0x20e860, _0x25be4f, _0x2eeb09, _0x134106);
+            }
